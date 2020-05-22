@@ -4,7 +4,7 @@ import sys
 # import pandas
 
 
-print(sys.argv)
+# print(sys.argv)
 
 
 # l = [1, 2 , 3 , 4]
